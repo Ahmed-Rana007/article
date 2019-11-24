@@ -1,0 +1,11 @@
+total 4 columns 
+total 2693 rows
+column 1 is of NewsType:
+                        * Sports : 52 percent about sports information sports
+                        * Buisness : 48 percent information is about buisness
+column 2 is of date:
+                    range of date is form 1 january 2015 to 27 march 2017 its mean about 2.5 years
+column 3 is of heading:
+                      In heading 2581 total unique values and majority things about economy of pakistan and some projects related to other countries like cpec of china pakistan and some other countries .
+column 4 is of article:
+                      in article total 2584 unique values and majority article on pakistani cities and some of other like china hong kong london san francisco etc
